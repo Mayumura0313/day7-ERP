@@ -1,28 +1,4 @@
-"""
-==== 1. ======
-
-使用tkinter 建立
-一個視窗
-上面顯示label
-產品的資料
-
-
-==== 2. ======
-
-使用 class 建立
-一個class
-儲存
-
-產品的相關資料
-==== 3. ======
-請參考
-65-class-properties.py
-
-把第一題的Label 上的文字
-改成讀取 class properties
-
-
-"""
+###作者: SJW.mayumura
 
 
 
